@@ -1,4 +1,4 @@
-# power-bi-project
+# Power BI project
 Power BI visualization on professional data survey
 # Description
   > I have used an excel dataset on professional survey. The data has different features. I have cleaned the data made transformation using POWER BI Query Editor.
